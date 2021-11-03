@@ -1,1 +1,1 @@
-	if TextBox.Text ==  "sus" then
+TextBox.Text ==  "sus"
